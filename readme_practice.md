@@ -28,3 +28,28 @@ Three hiphens  will also work for horizontal line
 
 ---
  
+## Contents
+1. [Features](#features)  
+2. [Install](#install)
+3. [Usage](#usage)
+4. [Configuration](#configuration)
+5. [FAQ](#faq)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Appendix: Markdown Reference](#appendix:markdown-reference)  
+
+Note:  
+1. 'square brackets [ ]' contain 'link text'. 'parantheses ( )' contain 'link target'.
+2. Link text (the label shown to readers)
+3. Parentheses ( ) is the link target/destination (URL, relative path, or anchor ID).
+## Features
+
+* Asterisks list item
+* List continues  
+    * Nested items supported
++ Plus sign also works for bullet points
++ Same Semantics
+- Dash works too
+* Choose a single style per doc for consistency
+
+---

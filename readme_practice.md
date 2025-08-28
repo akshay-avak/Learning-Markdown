@@ -53,3 +53,29 @@ Note:
 * Choose a single style per doc for consistency
 
 ---
+
+## Install
+**Requirements**  
+* Git
+* A recent runtime for your stack
+* A terminal  
+   
+**Steps**
+1. Numbers
+2. Doesn't matter
+    1. Nested step one
+    2. Nested step two
+---
+## Usage
+**Basic example**  
+Create a program printing "hello" once and then twice.    
+Create a program saying your name and age.
+
+Inline code: `print("Hello World)` then call `print("Hello world"*2)`.
+```python
+# minimal demo program
+name = "Akshay"
+age = 24
+print(f"My name is {name} and i'm {age} years old.")
+```
+

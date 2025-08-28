@@ -79,3 +79,40 @@ age = 24
 print(f"My name is {name} and i'm {age} years old.")
 ```
 
+---
+Two spaces at the end of this line creates a line break.  
+This line is directly below without a blank paragraph.  
+  
+
+Automatic linking is supported in many renderers: https://example.com  
+
+
+Angle-bracket link form : <https://example.com/docs>  
+Note: Opening and closing angle brackets can be used to enclose links.  
+
+Link with label : [Project Home](https://example.com)  
+
+Relative link example : [CONTRIBUTING](./CONTRIBUTING.md)  
+Note: './CONTRIBUTING.md' and '.CONTRIBUTING.md' works  when both are in the same folder.  
+
+  
+Link to an id in this doc: [Jump to Appendix](#appendix:markdown-reference) 
+
+___
+## Configuration
+
+| Key | Type | Default |Description |  
+| --- |--- | --- | --- |
+| `timeout` | number | `30` |Request time in seconds |  
+| `retries` | number | `2` |Retry attempts |  
+| `loglevel` | string | `info` |Log verbosity |  
+
+  
+Alignment demo:
+|Right|Center|Left|
+|---:|:---:|:---|
+|100|mid|low|
+|10|mid|high|
+
+---
+

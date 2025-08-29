@@ -116,3 +116,37 @@ Alignment demo:
 
 ---
 
+## Visuals
+Absolute image:
+
+![Open graph placeholder](https://placehold.co/200x100)
+
+Relative image (add `docs/diagram.jpg to your repo`):
+![Architecture Diagram](./docs/diagram.jpg)
+
+----
+
+## Text Styling Reference
+
+**Bold** and **also bold** in-word as**teris**ks.  
+_italic_ and  _also italic_ and in-word as*teris*ks.  
+***Both styles*** and ***also both*** and ***combo*** and mid-word as***teris***ks.  
+
+~~Strikethrough~~ for removed items. 
+   
+⚠ Github does not support highlight `==like this==`, so use **bold** or ___italic___ for emphasis instead.
+   
+⚠ GitHub does not support subscript/superscript with `~` or `^`.Use plain tet like `H2O` or `x^2`.  
+
+I am happy :smile:
+    
+Horizontal rules
+
+___
+***
+---
+___
+
+
+
+

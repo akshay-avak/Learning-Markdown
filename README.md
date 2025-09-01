@@ -43,3 +43,6 @@
 ## Section 9
 **Completed ✅ section 9**
 ![Section 9](./Screenshots/section9.png)
+
+
+### Completed ✅ learning fundamentals of markdown  on 01/09/2025.

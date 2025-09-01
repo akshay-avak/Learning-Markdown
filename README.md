@@ -21,6 +21,13 @@
 **Completed ✅ section 4**
 ![Section4.png](./Screenshots/section4.png)
 
+
+
 ## Section 5
-**Completed ✅ secion 5**
-![Section5.png](./Screenshots/section5.png)
+**Completed ✅ section 5**
+![Section5.png](./Screenshots/section5.png)  
+
+
+## Section 6
+**Completed ✅ section 6**
+![Section 6](./Screenshots/section6.png)

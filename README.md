@@ -39,3 +39,7 @@
 ## Section 8 
 **Completed ✅ section 8**
 ![Section 8](./Screenshots/section8.png)
+
+## Section 9
+**Completed ✅ section 9**
+![Section 9](./Screenshots/section9.png)

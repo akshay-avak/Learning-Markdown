@@ -177,4 +177,26 @@ git commit -m "feat: my change"
 git push origin feat/my-change
 ```
 
+## License
+This template is free to use.Replace this with yout project's actual license text or a link.  
+  
+---
+
+## Appendix: Markdown Reference
+
+### Headings
+
+# Head 1
+## Head 2
+### Head 3
+#### Head 4
+##### Head 5
+###### Head 6
+
+### Paragraphs
+Single new line keeps the same paragraph.  
+Two space + new line break.
+  
+Blank line creates a new paragraph.
+
 

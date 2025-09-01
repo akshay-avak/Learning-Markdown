@@ -31,3 +31,7 @@
 ## Section 6
 **Completed ✅ section 6**
 ![Section 6](./Screenshots/section6.png)
+
+## Section 7
+**Completed ✅ section 7**
+![section 7](./Screenshots/section7.png)

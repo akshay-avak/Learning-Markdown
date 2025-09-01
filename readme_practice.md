@@ -147,6 +147,34 @@ ___
 ---
 ___
 
+## FAQ
 
+**Q: How do i cite sections of this document?**  
+A: Use auto-generated id links like `[Features](#features)`.  
+  
+**Q: Can i use checklists for roadmaps?**
+A: Yes. See the "Project Status" section.  
+
+**Q: Do line breaks require blank lines?**  
+A: No.Add two trailing spaces at line end to force a `<br>`.
+
+---
+## Contributing
+> Start simple. Improve iteratively.
+
+- Fork the repo
+- Create a feature branch
+- Write tests
+- Open a PR
+  
+Code of conduct link: [Back to top](#markdown-project-template)  
+  
+Inline code sample : Python variable `name="Akshay`
+```bash
+# Standard GitHub flow
+git checkout -b feat/my-change
+git commit -m "feat: my change"
+git push origin feat/my-change
+```
 
 

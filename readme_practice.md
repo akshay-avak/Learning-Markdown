@@ -223,4 +223,23 @@ Blank line creates a new paragraph.
 [Relative](./CONTRIBUTING.md)  
 [Id example](#quick-start)  
 <https://example.com>  
-https://google.com
+https://google.com  
+
+### Horizontal Rule
+---
+___
+***
+### Text Styles
+
+**Bold**  
+_Italic_  
+__*Both*__  
+~~Strikethrough~~  
+Emoji::smile:
+
+### Code
+Inline:  `name = "Akshay`
+```python
+print(name)
+print(f"Welcome {name}!")
+```
